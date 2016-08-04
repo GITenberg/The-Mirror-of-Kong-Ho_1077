@@ -1,0 +1,29 @@
+_repo: The-Mirror-of-Kong-Ho_1077
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bramah, Ernest
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '529'
+    url: http://www.gutenberg.org/2009/agents/529
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Bramah
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epistolary fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Chinese -- England -- Fiction'
+- GITenberg
+title: The Mirror of Kong Ho
+url: http://www.gutenberg.org/ebooks/1077
